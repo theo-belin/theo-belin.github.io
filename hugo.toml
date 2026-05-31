@@ -3,6 +3,15 @@ locale = 'en-us'
 title = 'My New Hugo Project'
 theme = 'xmin'
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [[menu.main]]
 name = 'Home'
 url = '/'
