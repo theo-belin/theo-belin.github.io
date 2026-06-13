@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://theobelin.fr/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'Théo Belin'
 theme = 'xmin'
 
 [caches]
@@ -41,5 +41,3 @@ weight = 5
 name = 'Outreach'
 url = '/outreach/'
 weight = 6
-
-
