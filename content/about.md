@@ -2,10 +2,13 @@
 title: 'About'
 ---
 
-# Research Themes
+# Research Topics
 
-## Modulation Equations: Validity and Consequences
+## Approximation Theory of Modulation Equations
+- 
 
 ## Geometric Evolution Equations with a Parabolic Structure
+- 
 
-## Entropy Solutions to Degenerate Parabolic Equations
+## Entropy Solutions to Forward-Backward Diffusion Equations
+- 
