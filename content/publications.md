@@ -9,9 +9,10 @@ title: 'Publications'
 
 # Preprints
 - 2026+, _Geometric Evolution Equations with an Internal Dynamic I: `$C^{1,1}$` Interposition for Anisotropic Euclidean Metrics_, [link](https://hal.science/hal-05331783)
+- 2026, with P. Lafitte, _Entropy Solutions of a Diffusion Equation with Discontinuous Hysteresis and Their Finite Volume Approximation_, [link](https://hal.science/hal-04647129)
 
 # Publications
-- 2026, with P. Lafitte, _Entropy Solutions of a Diffusion Equation with Discontinuous Hysteresis and Their Finite Volume Approximation_, *To Appear* in Interfaces and Free Boundaries
+
 - 2026, with G. Schneider, _On the Ginzburg–Landau Approximation for Quasilinear Pattern Forming Reaction–Diffusion–Advection Systems_, Chaos, [link](https://pubs.aip.org/aip/cha/article/36/5/053129/3391114/On-the-Ginzburg-Landau-approximation-for)
 - 2025, with P. Lafitte, _Quantitative Estimates of `$L^p$` Maximal Regularity for Nonautonomous Operators and Global Existence for Quasilinear Equations_, Electronic Journal of Differential Equations, [link](https://ejde-ojs-txstate.tdl.org/ejde/article/view/996)
 
