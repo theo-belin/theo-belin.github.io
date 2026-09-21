@@ -3,11 +3,11 @@ title: 'Publications'
 ---
 
 # In Preparation
-- 2026+, with G. Schneider, _A Ginzburg-Landau Approximation Theorem for Quasilinear Pattern-Forming Systems in Uniformly Local Sobolev Spaces_ 
 - 2026+, with A. Logioti, N. Thorin, _Validity of the NLS Approximation for a Space Fractional Klein-Gordon Equation_ 
 - 2026+, _Geometric Evolution Equations with an Internal Dynamic II: Existence of Viscosity Solutions_
 
 # Preprints
+- 2026+, with G. Schneider, _A Ginzburg-Landau Approximation Theorem for Quasilinear Pattern-Forming Systems in Uniformly Local Sobolev Spaces_, [link](https://arxiv.org/abs/2608.19035)
 - 2026+, _Geometric Evolution Equations with an Internal Dynamic I: `$C^{1,1}$` Interposition for Anisotropic Euclidean Metrics_, [link](https://hal.science/hal-05331783)
 - 2026, with P. Lafitte, _Entropy Solutions of a Diffusion Equation with Discontinuous Hysteresis and Their Finite Volume Approximation_, [link](https://hal.science/hal-04647129)
 

@@ -2,15 +2,14 @@
 title: 'Talks'
 ---
 
-# Upcoming
-- 2026, July, AIMS, Athens (GR)
-
 # Conferences
+- 2026, July, AIMS, Athens (GR)
 - 2026, March, GAMM, Stuttgart (DE)
 - 2022, September, CJC-MA, Calais (FR)
 - 2022, July, French-Korean Congress, Orsay (FR)
 
 # Seminars
+- 2026, September, Öresund Seminar, Lund University (SE)
 - 2026, June, PhD Seminar, Lund University (SE)
 - 2025, November, Analysis/PDE seminar, Lund University (SE)
 - 2023, May, RG3 Seminar, WIAS (DE)
